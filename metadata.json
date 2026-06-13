@@ -1,0 +1,6 @@
+{
+  "name": "Bandham",
+  "description": "Family tree, reminders, contacts, and money tracking in one private place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
